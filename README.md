@@ -109,7 +109,7 @@ Access app: http://localhost:5000
 ![Grafana Dashboard](screenshots/grafana_dashboard.png)
 
 🎯 Grafana Logs Targets
-![Grafana Log Targets](screenshots/prometheus_targets.png)
+![Grafana Log Targets](screenshots/grafana_targets.png)
 
 
 
