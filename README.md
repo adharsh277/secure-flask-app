@@ -105,11 +105,12 @@ Access app: http://localhost:5000
 
 ## 📸 Screenshots
 
-### 📊 Grafana Dashboard
-![Grafana Dashboard](screenshots/Screenshot (1341).png)
+📊 Grafana Dashboard
+![Grafana Dashboard](screenshots/grafana_dashboard.png)
 
-### 🎯 Prometheus Targets
-![Prometheus Targets](screenshots/Screenshot (1332).png)
+🎯 Grafana Logs Targets
+![Grafana Log Targets](screenshots/prometheus_targets.png)
+
 
 
 ## 📌 Deployment to Azure
