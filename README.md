@@ -8,7 +8,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-orange?logo=grafana)
 ![Loki](https://img.shields.io/badge/Loki-Log%20Aggregation-purple?logo=grafana)
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-CI/CD-green?logo=githubactions)
-![Python](https://img.shields.io/badge/Python-Flask-app-blue?logo=python)
 
 ---
 
