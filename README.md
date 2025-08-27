@@ -103,6 +103,15 @@ docker run -p 5000:5000 secure-flask-app:latest
 
 Access app: http://localhost:5000
 
+## 📸 Screenshots
+
+### 📊 Grafana Dashboard
+![Grafana Dashboard](screenshots/Screenshot (1341).png)
+
+### 🎯 Prometheus Targets
+![Prometheus Targets](screenshots/Screenshot (1332).png)
+
+
 ## 📌 Deployment to Azure
 
 Login to Azure:
